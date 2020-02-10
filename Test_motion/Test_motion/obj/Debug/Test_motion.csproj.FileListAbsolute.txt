@@ -1,0 +1,11 @@
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\bin\Debug\Test_motion.exe.config
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\bin\Debug\Test_motion.exe
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\bin\Debug\Test_motion.pdb
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.Form1.resources
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.csproj.GenerateResource.cache
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.exe
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.pdb
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\bin\Debug\LibLED.dll
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.csprojAssemblyReference.cache
+D:\DATA\NCKH_2019\visual_studio\Test_motion\Test_motion\obj\Debug\Test_motion.csproj.CopyComplete

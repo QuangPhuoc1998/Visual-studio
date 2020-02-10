@@ -1,0 +1,11 @@
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\bin\Debug\QUAN_LY_BAI_DO_XE.exe.config
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\bin\Debug\QUAN_LY_BAI_DO_XE.exe
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\bin\Debug\QUAN_LY_BAI_DO_XE.pdb
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.LOGIN.resources
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.csproj.GenerateResource.Cache
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.exe
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.pdb
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.csprojAssemblyReference.cache
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\bin\Debug\Bunifu_UI_v1.52.dll
+D:\DATA\NCKH_2019\visual_studio\QUAN_LY_BAI_DO_XE\QUAN_LY_BAI_DO_XE\obj\Debug\QUAN_LY_BAI_DO_XE.csproj.CopyComplete

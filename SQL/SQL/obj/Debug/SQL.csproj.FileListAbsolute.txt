@@ -1,0 +1,9 @@
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\bin\Debug\SQL.exe.config
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.Form1.resources
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\bin\Debug\SQL.exe
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\bin\Debug\SQL.pdb
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.exe
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.pdb
+D:\DATA\NCKH_2019\visual_studio\SQL\SQL\obj\Debug\SQL.csprojAssemblyReference.cache

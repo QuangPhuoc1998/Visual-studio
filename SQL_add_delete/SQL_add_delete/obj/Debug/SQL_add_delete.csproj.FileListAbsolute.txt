@@ -1,0 +1,9 @@
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\bin\Debug\SQL_add_delete.exe.config
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\bin\Debug\SQL_add_delete.exe
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\bin\Debug\SQL_add_delete.pdb
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.Quan_ly.resources
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.csproj.GenerateResource.cache
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.exe
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.pdb
+D:\DATA\NCKH_2019\visual_studio\SQL_add_delete\SQL_add_delete\obj\Debug\SQL_add_delete.csprojAssemblyReference.cache

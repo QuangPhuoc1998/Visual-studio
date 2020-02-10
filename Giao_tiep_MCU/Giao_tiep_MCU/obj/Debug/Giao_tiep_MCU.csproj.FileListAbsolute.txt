@@ -1,0 +1,9 @@
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\bin\Debug\Giao_tiep_MCU.exe.config
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\bin\Debug\Giao_tiep_MCU.exe
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\bin\Debug\Giao_tiep_MCU.pdb
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.Form1.resources
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.csproj.GenerateResource.Cache
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.exe
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.pdb
+D:\DATA\NCKH_2019\visual_studio\Giao_tiep_MCU\Giao_tiep_MCU\obj\Debug\Giao_tiep_MCU.csprojAssemblyReference.cache

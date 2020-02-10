@@ -1,0 +1,9 @@
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\bin\Debug\Picturebox.exe.config
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\bin\Debug\Picturebox.exe
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\bin\Debug\Picturebox.pdb
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.csprojAssemblyReference.cache
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.Form1.resources
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.csproj.GenerateResource.cache
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.exe
+D:\DATA\NCKH_2019\visual_studio\Picturebox\Picturebox\obj\Debug\Picturebox.pdb
